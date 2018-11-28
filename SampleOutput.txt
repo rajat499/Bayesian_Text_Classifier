@@ -1,0 +1,33 @@
+Words in Hockey HashMaps-112276. Words in BaseBall HashMaps-86527
+Hockey training cases- 801. BaseBall training Cases-792
+Accuracy Test case 1 - 99.75 %
+Words in Hockey HashMaps-106821. Words in BaseBall HashMaps-86421
+Hockey training cases- 806. BaseBall training Cases-787
+Accuracy Test case 2 - 99.0 %
+Words in Hockey HashMaps-109340. Words in BaseBall HashMaps-87603
+Hockey training cases- 797. BaseBall training Cases-796
+Accuracy Test case 3 - 98.5 %
+Words in Hockey HashMaps-103247. Words in BaseBall HashMaps-89194
+Hockey training cases- 785. BaseBall training Cases-808
+Accuracy Test case 4 - 97.75 %
+Words in Hockey HashMaps-109044. Words in BaseBall HashMaps-89529
+Hockey training cases- 807. BaseBall training Cases-793
+Accuracy Test case 5 - 97.70992366412214 %
+Total Accuracy - 98.54198473282443 %
+
+Words in Hockey HashMaps-98501. Words in BaseBall HashMaps-89529
+Hockey training cases- 793. BaseBall training Cases-800
+Accuracy Test case 1 - 98.75 %
+Words in Hockey HashMaps-111210. Words in BaseBall HashMaps-87347
+Hockey training cases- 808. BaseBall training Cases-785
+Accuracy Test case 2 - 98.0 %
+Words in Hockey HashMaps-110712. Words in BaseBall HashMaps-87387
+Hockey training cases- 793. BaseBall training Cases-801
+Accuracy Test case 3 - 99.49874686716792 %
+Words in Hockey HashMaps-110564. Words in BaseBall HashMaps-85095
+Hockey training cases- 810. BaseBall training Cases-783
+Accuracy Test case 4 - 98.5 %
+Words in Hockey HashMaps-109741. Words in BaseBall HashMaps-89646
+Hockey training cases- 792. BaseBall training Cases-807
+Accuracy Test case 5 - 98.73096446700508 %
+Total Accuracy - 98.6959422668346 %

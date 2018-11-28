@@ -1,0 +1,20 @@
+In this problem, you have to use the Naive Bayes algorithm to learn a model for classifying an article into one of the two given newsgroups. The original data (as well as its description) is available through the UCI data repository.(http://archive.ics.uci.edu/ml/machine-learning-databases/20newsgroups-mld/20newsgroups.data.html)
+
+For this problem, we are using only two classes from the original dataset, rec.sport.baseball and rec.sport.hockey. We have processed the data further to remove punctuation symbols, stopwords etc. The processed data is made available to you in a single file with each row representing one article. Each row contains the information about the class of the article followed by the list of words appearing in the article.
+
+Example:
+Line-1 : "rec.sport.baseball    brave giant tmiller cimmeria ... "
+Line-2 : "rec.sport.hockey    mlb nba rvesterm vma edu write... "
+
+As you can see, each line is divided into two parts, the first part contains the sport with which the article is related to, followed by a tab space(4 spaces) and then a list of words appearing in the article separated by spaces and finally a newline character to end the line.
+
+Implement the Naive Bayes algorithm to classify each of the articles into one of the two newsgroup categories. Think about what all probabilities would you compute - as was discussed in class. 
+
+Read about k-fold cross-validation here(https://machinelearningmastery.com/k-fold-cross-validation/).
+Randomly divide your data into 5 equal sized splits of size 399 (or 398) each. Make sure NOT TO create the splits in any particular order (e.g., picking documents sequentially) otherwise it may lead to skewed distribution of classes across the splits. Now, perform 5-fold (k=5) cross validation as described on the link above. 
+Compute the average (taken over the five folds) accuracy over the test set. What do you see? Comment on your results.
+
+Important Notes-
+Make sure to use the smoothing for Naive Bayes to avoid any zero probabilities.
+You should implement your algorithm using logarithms to avoid underflow issues.
+You should implement Naive Bayes from the first principles and not use any existing Matlab/Python etc. modules/libraries.
